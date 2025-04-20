@@ -24,3 +24,5 @@ def get_polindrom_numbers(number_list: List[int]) -> List[int]:
 
 if __name__ == "__main__":
     print(get_polindrom_numbers([121, 123, 131, 34543]))
+
+#Внесение изменений
